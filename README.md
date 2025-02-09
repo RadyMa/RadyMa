@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rady Martinez
 - I am a Computer Science student at the University of North Florida 
-- 🌱 I’m currently learning about React and AWS
+- 🌱 I’m currently learning React and AWS
 
 
 
